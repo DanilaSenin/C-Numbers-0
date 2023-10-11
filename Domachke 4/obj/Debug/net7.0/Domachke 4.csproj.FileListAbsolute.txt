@@ -1,0 +1,14 @@
+C:\Users\Данила Сенин\Desktop\C# Seminar 1\Domachke 4\obj\Debug\net7.0\Domachke 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Данила Сенин\Desktop\C# Seminar 1\Domachke 4\obj\Debug\net7.0\Domachke 4.AssemblyInfoInputs.cache
+C:\Users\Данила Сенин\Desktop\C# Seminar 1\Domachke 4\obj\Debug\net7.0\Domachke 4.AssemblyInfo.cs
+C:\Users\Данила Сенин\Desktop\C# Seminar 1\Domachke 4\obj\Debug\net7.0\Domachke 4.csproj.CoreCompileInputs.cache
+C:\Users\Данила Сенин\Desktop\C# Seminar 1\Domachke 4\bin\Debug\net7.0\Domachke 4.exe
+C:\Users\Данила Сенин\Desktop\C# Seminar 1\Domachke 4\bin\Debug\net7.0\Domachke 4.deps.json
+C:\Users\Данила Сенин\Desktop\C# Seminar 1\Domachke 4\bin\Debug\net7.0\Domachke 4.runtimeconfig.json
+C:\Users\Данила Сенин\Desktop\C# Seminar 1\Domachke 4\bin\Debug\net7.0\Domachke 4.dll
+C:\Users\Данила Сенин\Desktop\C# Seminar 1\Domachke 4\bin\Debug\net7.0\Domachke 4.pdb
+C:\Users\Данила Сенин\Desktop\C# Seminar 1\Domachke 4\obj\Debug\net7.0\Domachke 4.dll
+C:\Users\Данила Сенин\Desktop\C# Seminar 1\Domachke 4\obj\Debug\net7.0\refint\Domachke 4.dll
+C:\Users\Данила Сенин\Desktop\C# Seminar 1\Domachke 4\obj\Debug\net7.0\Domachke 4.pdb
+C:\Users\Данила Сенин\Desktop\C# Seminar 1\Domachke 4\obj\Debug\net7.0\Domachke 4.genruntimeconfig.cache
+C:\Users\Данила Сенин\Desktop\C# Seminar 1\Domachke 4\obj\Debug\net7.0\ref\Domachke 4.dll
